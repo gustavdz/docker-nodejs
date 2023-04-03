@@ -1,5 +1,6 @@
 # docker-nodejs
- docker practice with node.js
+ docker practice with node.js and GCP
+ 
 # Docker commands
 ## Build the image for docker
  docker build -t docker-nodejs .
